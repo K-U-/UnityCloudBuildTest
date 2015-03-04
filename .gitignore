@@ -1,0 +1,97 @@
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+# =============== #
+# Blammo excludes #
+# =============== #
+*_log.txt
+*_log.txt.meta
+.~lock.*
+
+# =============== #
+# XCode excludes #
+# =============== #
+*.o
+*.o.d
+*.bl??
+*.st??
+*.sc??
+.BridgeSort
+.BridgeLabelsAndRatings
+.*.swp
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.log
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+/ExternalTools/*.opensdf
+[Dd]ebug
+[Rr]elease
